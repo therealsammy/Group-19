@@ -140,7 +140,7 @@ buttom {
     color: hsl(228, 45%, 44%);
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
     .bg__image {
         background: url("./images/pattern-background-desktop.svg") no-repeat center/cover;
         height: 50vh;
